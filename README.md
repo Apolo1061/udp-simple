@@ -4,7 +4,7 @@
 <img src="/UDPimagen2.png"></img>
 ## <p align="center">📷 Foto 📷</p>
 
-<img src="/UDPimagen"></img>
+<img src="/c"></img>
 
 ## <p align="center">Requisitos 📄</p> 
 
